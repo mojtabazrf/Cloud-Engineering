@@ -1,8 +1,6 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Cloud Security with AWS IAM
 
-**Project Link:** [View Project](https://nextwork.ai/projects/51a5fd24-7458-58a6-8653-9b90119a0e4a)
 
 **Author:** Mojtaba Zarifi  
 **Email:** mojtabazarifi86@gmail.com

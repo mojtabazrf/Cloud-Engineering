@@ -1,8 +1,5 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Testing VPC Connectivity
-
-**Project Link:** [View Project](https://nextwork.ai/projects/da091986-ef01-5973-a070-b15e174f59d8)
 
 **Author:** Mojtaba Zarifi  
 **Email:** mojtabazarifi86@gmail.com

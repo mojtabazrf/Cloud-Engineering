@@ -1,8 +1,5 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Launching VPC Resources
-
-**Project Link:** [View Project](https://nextwork.ai/projects/8f49d756-9e51-58c0-856a-e71e54f064ab)
 
 **Author:** Mojtaba Zarifi  
 **Email:** mojtabazarifi86@gmail.com

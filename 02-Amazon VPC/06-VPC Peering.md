@@ -1,8 +1,5 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # VPC Peering
-
-**Project Link:** [View Project](https://nextwork.ai/projects/fd75209e-d2a1-5bdd-90e8-bdb9ee49de16)
 
 **Author:** Mojtaba Zarifi  
 **Email:** mojtabazarifi86@gmail.com

@@ -1,8 +1,5 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # VPC Endpoints
-
-**Project Link:** [View Project](https://nextwork.ai/projects/749fab76-0a0b-5822-9b31-c7863050c9bd)
 
 **Author:** Mojtaba Zarifi  
 **Email:** mojtabazarifi86@gmail.com
