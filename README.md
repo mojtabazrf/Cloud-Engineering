@@ -30,7 +30,7 @@ I come from a **system administration and IT infrastructure** background (networ
 | # | Section | Projects | Focus |
 |---|---------|:--------:|-------|
 | 1 | [Cloud Beginner Challenge](#1--cloud-beginner-challenge) | 2 | S3, IAM |
-| 2 | [Amazon VPC](https://github.com/mojtabazrf/Cloud-Engineering/tree/main/02-Amazon%20VPC) | 9 | Networking, security, connectivity |
+| 2 | [Amazon VPC](#2--amazon-vpc) | 9 | Networking, security, connectivity |
 | 3 | [Databases](#3--databases) | 4 | Aurora, DynamoDB |
 | 4 | [Security](#4--security) | 4 | KMS, GuardDuty, Secrets Manager |
 | 5 | [Three-Tier](#5--three-tier) | 4 | CloudFront, Lambda, API Gateway |
@@ -46,28 +46,28 @@ I come from a **system administration and IT infrastructure** background (networ
 
 ## ✅ Progress Tracker
 
-Legend: ✅ Done · 🚧 In progress · ⬜ Not started
+Legend: ✅ Done · ⬜ Not started
 
 ### 1 · Cloud Beginner Challenge
 
 | Status | Project | Docs |
 |:------:|---------|:----:|
-| ⬜ | 1.1 Host a Website on Amazon S3 | – |
-| ⬜ | 1.2 Cloud Security with AWS IAM | – |
+| ✅ | 1.1 Host a Website on Amazon S3 | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/01-Cloud%20Beginner%20Challenge/01-Host%20a%20Website%20on%20Amazon%20S3.md) |
+| ✅ | 1.2 Cloud Security with AWS IAM | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/01-Cloud%20Beginner%20Challenge/02-Cloud%20Security%20with%20AWS%20IAM.md) |
 
 ### 2 · Amazon VPC
 
 | Status | Project | Docs |
 |:------:|---------|:----:|
-| ⬜ | 2.1 Build a Virtual Private Cloud | [Link](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/02-Amazon%20VPC/01-Build%20a%20Virtual%20Private%20Cloud.md) |
-| ⬜ | 2.2 VPC Traffic Flow and Security | – |
-| ⬜ | 2.3 Creating a Private Subnet | – |
-| ⬜ | 2.4 Launching VPC Resources | – |
-| ⬜ | 2.5 Testing VPC Connectivity | – |
-| ⬜ | 2.6 VPC Peering | – |
-| ⬜ | 2.7 VPC Monitoring with Flow Logs | – |
-| ⬜ | 2.8 Access S3 from a VPC | – |
-| ⬜ | 2.9 VPC Endpoints | – |
+| ✅ | 2.1 Build a Virtual Private Cloud | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/02-Amazon%20VPC/01-Build%20a%20Virtual%20Private%20Cloud.md) |
+| ✅ | 2.2 VPC Traffic Flow and Security | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/02-Amazon%20VPC/02-VPC%20Traffic%20Flow%20and%20Security.md) |
+| ✅ | 2.3 Creating a Private Subnet | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/02-Amazon%20VPC/03-Creating%20a%20Private%20Subnet.md) |
+| ✅ | 2.4 Launching VPC Resources | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/02-Amazon%20VPC/04-Launching%20VPC%20Resources.md) |
+| ✅ | 2.5 Testing VPC Connectivity | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/02-Amazon%20VPC/05-Testing%20VPC%20Connectivity.md) |
+| ✅ | 2.6 VPC Peering | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/02-Amazon%20VPC/06-VPC%20Peering.md) |
+| ✅ | 2.7 VPC Monitoring with Flow Logs | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/02-Amazon%20VPC/07-VPC%20Monitoring%20with%20Flow%20Logs.md) |
+| ✅ | 2.8 Access S3 from a VPC | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/02-Amazon%20VPC/08-Access%20S3%20from%20a%20VPC.md) |
+| ✅ | 2.9 VPC Endpoints | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/02-Amazon%20VPC/09-VPC%20Endpoints.md) |
 
 ### 3 · Databases
 
@@ -147,32 +147,6 @@ Legend: ✅ Done · 🚧 In progress · ⬜ Not started
 | ⬜ | 11.1 Create S3 Buckets with Terraform | – |
 
 > As I finish each project, I change ⬜ to ✅ and add a link to its documentation folder in the **Docs** column.
-
----
-
-## 📁 Repository Structure
-
-```text
-Cloud-Engineering/
-├── README.md
-├── 01-cloud-beginner-challenge/
-│   ├── 01-host-website-on-s3/
-│   │   ├── README.md          # Full documentation
-│   │   └── images/            # Screenshots
-│   └── 02-cloud-security-with-iam/
-├── 02-amazon-vpc/
-├── 03-databases/
-├── 04-security/
-├── 05-three-tier/
-├── 06-kubernetes/
-├── 07-devops-challenge/
-├── 08-amazon-lex-chatbot/
-├── 09-amazon-transcribe/
-├── 10-amazon-bedrock/
-└── 11-terraform/
-```
-
-Each project folder contains its own `README.md` with the documentation and an `images/` folder with screenshots.
 
 ---
 
