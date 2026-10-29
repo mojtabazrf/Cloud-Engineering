@@ -73,10 +73,10 @@ Legend: ✅ Done · ⬜ Not started
 
 | Status | Project | Docs |
 |:------:|---------|:----:|
-| ⬜ | 3.1 Aurora Database with EC2 | – |
-| ⬜ | 3.2 Connect a Web App with Aurora | – |
-| ⬜ | 3.3 Load Data into DynamoDB | – |
-| ⬜ | 3.4 Query Data with DynamoDB | – |
+| ✅ | 3.1 Aurora Database with EC2 | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/03-Databases/01-Aurora%20Database%20with%20EC2.md) |
+| ✅ | 3.2 Connect a Web App with Aurora | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/03-Databases/02-Connect%20a%20Web%20App%20with%20Aurora.md) |
+| ✅ | 3.3 Load Data into DynamoDB | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/03-Databases/03-Load%20Data%20into%20DynamoDB.md) |
+| ✅ | 3.4 Query Data with DynamoDB | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/03-Databases/04-Query%20Data%20with%20DynamoDB.md) |
 
 ### 4 · Security
 
