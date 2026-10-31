@@ -82,7 +82,7 @@ Legend: ✅ Done · ⬜ Not started
 
 | Status | Project | Docs |
 |:------:|---------|:----:|
-| ⬜ | 4.1 Encrypt Data with AWS KMS | – |
+| ✅ | 4.1 Encrypt Data with AWS KMS | [Document](https://github.com/mojtabazrf/Cloud-Engineering/blob/main/04-Security/01-Encrypt%20Data%20with%20AWS%20KMS.md) |
 | ⬜ | 4.2 Threat Detection with GuardDuty | – |
 | ⬜ | 4.3 Secure Secrets with Secrets Manager | – |
 | ⬜ | 4.4 Build a Security Monitoring System | – |
